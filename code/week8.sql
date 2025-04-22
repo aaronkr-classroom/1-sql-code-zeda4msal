@@ -1,4 +1,4 @@
-SELECT * FROM 학생;
+SELECT * FROM 학생2;
 
 -- 트랜잭션
 -- BEGIN; 또는 BEGIN WORK; 또는 BEGIN TRANSACTION; (PostgreSQL)
